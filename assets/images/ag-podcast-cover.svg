@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600" role="img" aria-labelledby="title desc">
+  <title id="title">The Qatar Company Formation Brief podcast cover</title>
+  <desc id="desc">Premium navy and sand podcast cover for Address Gateway's Qatar company formation briefing channel.</desc>
+  <defs>
+    <radialGradient id="glow" cx="72%" cy="18%" r="82%">
+      <stop offset="0%" stop-color="#35b6d3" stop-opacity=".24"/>
+      <stop offset="44%" stop-color="#17385f" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#07101b"/>
+    </radialGradient>
+    <linearGradient id="sand" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff6df"/>
+      <stop offset="48%" stop-color="#d6b273"/>
+      <stop offset="100%" stop-color="#8f7041"/>
+    </linearGradient>
+    <linearGradient id="maroon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9a3445"/>
+      <stop offset="100%" stop-color="#5f1826"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#02070d" flood-opacity=".58"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1600" fill="#07101b"/>
+  <rect width="1600" height="1600" fill="url(#glow)"/>
+  <g opacity=".12" stroke="#fff6df" stroke-width="2">
+    <path d="M250 1240H1350"/>
+    <path d="M250 1125H1350"/>
+    <path d="M250 1010H1350"/>
+    <path d="M250 895H1350"/>
+    <path d="M250 780H1350"/>
+    <path d="M250 665H1350"/>
+    <path d="M250 550H1350"/>
+    <path d="M250 435H1350"/>
+  </g>
+  <path d="M165 1020 C410 760 575 1000 805 780 C1065 530 1285 628 1458 382" fill="none" stroke="#d6b273" stroke-opacity=".34" stroke-width="9"/>
+  <path d="M216 1095 C460 890 620 1082 846 850 C1086 606 1265 710 1416 540" fill="none" stroke="#fff6df" stroke-opacity=".14" stroke-width="3"/>
+  <g filter="url(#softShadow)">
+    <rect x="170" y="170" width="1260" height="1260" fill="none" stroke="#d6b273" stroke-opacity=".42" stroke-width="3"/>
+    <rect x="226" y="226" width="1148" height="1148" fill="none" stroke="#fff6df" stroke-opacity=".12" stroke-width="2"/>
+  </g>
+  <g transform="translate(240 238)">
+    <text x="0" y="0" fill="#35b6d3" font-family="Georgia, serif" font-size="82" letter-spacing="2">ADDRESS</text>
+    <text x="0" y="76" fill="#fffaf0" font-family="Georgia, serif" font-size="82" letter-spacing="1">GATE<tspan fill="#f28b2d">WAY</tspan></text>
+    <text x="2" y="124" fill="#fffaf0" opacity=".62" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="10">BUSINESS SERVICES</text>
+  </g>
+  <g transform="translate(240 548)">
+    <text x="0" y="0" fill="#d6b273" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="28" letter-spacing="16">PODCAST CHANNEL</text>
+    <text x="0" y="142" fill="#fffaf0" font-family="Georgia, serif" font-size="147">The Qatar</text>
+    <text x="0" y="296" fill="#fffaf0" font-family="Georgia, serif" font-size="147">Company</text>
+    <text x="0" y="450" fill="#fffaf0" font-family="Georgia, serif" font-size="147">Formation Brief</text>
+    <text x="4" y="560" fill="url(#sand)" font-family="Georgia, serif" font-size="64" font-style="italic">founder clarity before the call</text>
+  </g>
+  <g transform="translate(240 1270)">
+    <rect x="0" y="-70" width="720" height="96" fill="#d6b273" fill-opacity=".12" stroke="#d6b273" stroke-opacity=".42"/>
+    <text x="28" y="-10" fill="#fff6df" font-family="Inter, Arial, sans-serif" font-size="27" letter-spacing="8">BY ADDRESS GATEWAY</text>
+  </g>
+  <g transform="translate(1120 1090)">
+    <circle cx="126" cy="126" r="142" fill="none" stroke="url(#maroon)" stroke-width="30" stroke-opacity=".78"/>
+    <rect x="80" y="48" width="92" height="146" rx="46" fill="url(#sand)"/>
+    <path d="M54 132 C54 222 198 222 198 132" fill="none" stroke="#fff6df" stroke-opacity=".78" stroke-width="16" stroke-linecap="round"/>
+    <path d="M126 222 V270" stroke="#fff6df" stroke-opacity=".78" stroke-width="16" stroke-linecap="round"/>
+    <path d="M88 270 H164" stroke="#fff6df" stroke-opacity=".78" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1045 735)" opacity=".66">
+    <rect x="0" y="120" width="18" height="68" rx="9" fill="url(#sand)"/>
+    <rect x="44" y="86" width="18" height="136" rx="9" fill="url(#sand)"/>
+    <rect x="88" y="42" width="18" height="224" rx="9" fill="url(#sand)"/>
+    <rect x="132" y="76" width="18" height="156" rx="9" fill="url(#sand)"/>
+    <rect x="176" y="20" width="18" height="268" rx="9" fill="url(#sand)"/>
+    <rect x="220" y="96" width="18" height="116" rx="9" fill="url(#sand)"/>
+    <rect x="264" y="54" width="18" height="200" rx="9" fill="url(#sand)"/>
+  </g>
+</svg>
